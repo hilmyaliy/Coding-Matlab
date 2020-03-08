@@ -13,4 +13,4 @@ Coding dari tesis dengan menggunakan bahasa Pemrograman Matlab
 Code ini masih sudah dapat digunakan namun masih dalam tahap penyempurnaan
 Saran dan kritik dari Viewers diperlukan untuk perbaikan dari code ini
 Terima Kasih !
--------------------------------------------------------------
+
