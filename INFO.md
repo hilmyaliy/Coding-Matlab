@@ -1,6 +1,6 @@
 # Grain Size Distribution Menggunakan PCA (Bhs Indonesia)
 Judul Tesis : ANALISIS DISTRIBUSI UKURAN BUTIRAN PADA MODEL MEDIA BERPORI GRANULAR MENGGUNAKAN PRINCIPAL COMPONENT ANALYSIS
-&nbsp
+<pre>
 Profil:
 Hilmy Aliy Andra Putra
 Pascasarjana Institut Teknologi Bandung
