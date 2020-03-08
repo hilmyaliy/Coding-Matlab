@@ -1,4 +1,4 @@
-# Tesis
+# Grain Size Distribution Menggunakan PCA (Bhs Indonesia)
 Judul Tesis : ANALISIS DISTRIBUSI UKURAN BUTIRAN PADA MODEL MEDIA BERPORI GRANULAR MENGGUNAKAN PRINCIPAL COMPONENT ANALYSIS
 
 Profil:
@@ -8,8 +8,9 @@ Jurusan Sains Komputasi
 Fakultas MIPA
 
 
-Note : Coding dari tesis dengan menggunakan bahasa Pemrograman Matlab
-
+-------------------------Note !------------------------------
+Coding dari tesis dengan menggunakan bahasa Pemrograman Matlab
 Code ini masih sudah dapat digunakan namun masih dalam tahap penyempurnaan
 Saran dan kritik dari Viewers diperlukan untuk perbaikan dari code ini
 Terima Kasih !
+-------------------------------------------------------------
