@@ -6,7 +6,7 @@ Hilmy Aliy Andra Putra
 Pascasarjana Institut Teknologi Bandung
 Jurusan Sains Komputasi
 Fakultas MIPA
-
+</pre>
 
 -------------------------Note !------------------------------
 Coding dari tesis dengan menggunakan bahasa Pemrograman Matlab &nbsp
